@@ -4,6 +4,6 @@ The proposed dataset primarily utilizes DJI UAVs (MAVIC, Air, Mini, Phantom) to 
 <img width="942" height="548" alt="image" src="https://github.com/user-attachments/assets/4b3b9b93-f8c6-4f04-9c8a-d72bf25d9acd" />
 
 # Dataset Downloads
-The dataset can be downloaded
+The dataset can be downloaded in https://pan.baidu.com/s/1sxv0Fw-Gy__Aqo6W2xNDCA?pwd=3m2j pwd: 3m2j
 
 The first frame annotation is stored in [left top width height].
