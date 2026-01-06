@@ -52,7 +52,7 @@ The air-to-air scenario introduces unique challenges:
 ## 📸 Quick View
 ### Dataset Samples
 <p align="center">
-  <img src="./figures/scenarios.png" width="400">
+  <img src="./figures/scenario.png" width="400">
   <br>
   <em>Figure 2: Sample images from our air-to-air UAV Dataset.</em>
 </p>
