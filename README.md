@@ -6,7 +6,7 @@
 ---
 
 ## 👨‍💻 Authors
-**C. Li**, X. Zhu, Y. Wang, W. Tang, X. Ren, S. Wu, and Z. Wu
+**Chengwei Li**, Xiangyu Zhu, Yong Wang, Wenzhi Tang, Xuefeng Ren, Shunan Wu, and Zhigang Wu
 
 ---
 
