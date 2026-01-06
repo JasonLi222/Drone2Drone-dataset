@@ -34,7 +34,11 @@ This paper studies the problem of air-to-air visual tracking of quad-rotor unman
 ---
 
 ## 🚀 Introduction
-
+Reliable target tracking is a essential for autonomous Unmanned Aerial Vehicle (UAV) operations. While existing benchmarks have extensively covered ground-to-air or air-to-ground scenarios, air-to-air tracking remains significantly under-explored despite its critical importance in aerial refueling, formation flight, and counter-UAV missions.
+The air-to-air scenario introduces unique challenges:
+* **Highly Dynamic Backgrounds:** Rapid ego-motion of the tracking UAV causes intense view fluctuations.
+* **Extreme Scale Variations:** Drastic changes in relative distance.
+* **Complex Motion Models:** High-degree-of-freedom maneuvers in 3D space.
 
 ---
 
