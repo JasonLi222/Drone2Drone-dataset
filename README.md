@@ -12,7 +12,7 @@
 
 ## 🖼️ Overview
 <p align="center">
-  <img src="./figures/Trackerandtarget.png" width="600">
+  <img src="./figures/Trackerandtarget.png" width="400">
   <br>
   <em>Figure 1: Overview of the air-to-air tracking scenarios.</em>
 </p>
