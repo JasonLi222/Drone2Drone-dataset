@@ -109,6 +109,3 @@ If you find our work or dataset useful for your research, please cite:
   booktitle={Proceedings of the IEEE International Conference on Robotics and Biomimetics (ROBIO)},
   year={2025}
 }
-
-
-
