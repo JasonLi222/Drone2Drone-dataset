@@ -17,7 +17,7 @@
 ---
 
 ## 📌 Abstract
-
+This paper studies the problem of air-to-air visual tracking of quad-rotor unmanned aerial vehicle(UAV). This research is important for applications like security monitoring, logistics and emergency rescue. Current deep learning tracking algorithms have shown superior performance in various tracking tasks, on the purpose of exploring full potential of these methods for UAV tracking, we present a new dataset, named Drone2Drone, which consists of 58 video sequences containing over 110000 frames. Compared to other existing datasets, the proposed one features diverse environmental backgrounds, various shooting angles, and multiple lighting conditions. We implement a comprehensive training and evaluation process  based on OSTrack tracking algorithms with the proposed datasets. The results indicate UAV tracking improvement and prove that tracker learns more robust class-level UAV information. Furthermore, we present an experimental evaluation of eight representative tracking algorithms, the result of which highlights some prominent challenges in the task of air-to-air UAV tracking and suggests possible directions for tracking algorithms improvement in the future. All the resources will be available before October.
 
 ---
 
