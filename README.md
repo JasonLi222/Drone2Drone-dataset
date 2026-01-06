@@ -11,7 +11,7 @@
 ---
 
 ## 🖼️ Overview
-![Teaser Image](./assets/teaser.png)  
+![Teaser Image](./figures/Targetandtarget.png)  
 *Figure 1: Overview of the proposed air-to-air UAV tracking framework and dataset scenarios.*
 
 ---
@@ -24,7 +24,7 @@ This paper studies the problem of air-to-air visual tracking of quad-rotor unman
 ## 📂 Table of Contents
 * [Introduction](#-introduction)
 * [Contributions](#-contributions)
-* [Quick View (Dataset)](#-quick-view-dataset)
+* [Quick View](#-quick-view-dataset)
 * [Experimental Results](#-experimental-results)
 * [Dataset Download](#-dataset-download)
 * [Citation](#-citation)
@@ -43,7 +43,7 @@ This paper studies the problem of air-to-air visual tracking of quad-rotor unman
 
 ---
 
-## 📸 Quick View (Dataset)
+## 📸 Quick View
 ### Dataset Samples
 <p align="center">
   <img src="./assets/sample1.jpg" width="45%" />
