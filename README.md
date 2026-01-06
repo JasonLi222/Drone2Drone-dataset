@@ -82,10 +82,13 @@ The air-to-air scenario introduces unique challenges:
 | **OSTrack (D2D)** | **65.1** | **46.2** |
 | OSTrack (D2D_FW) | 63.8 | 45.2 |
 
-*D2D: OStrack trained with our dataset. *D2D_FW: OStrack trained with our dataset and another fixed-wing UAV dataset.
+*D2D: OSTrack trained with our dataset. *D2D_FW: OSTrack trained with our dataset and another fixed-wing UAV dataset.
 ### Visualization
-![Results Chart](./assets/results_plots.png)
-*Figure 3: Success and Precision plots comparing our benchmarked algorithms.*
+<p align="center">
+  <img src="./figures/visual.png" width="400">
+  <br>
+  <em>Figure 4: Visualization of the tracking results.</em>
+</p>
 
 ---
 
