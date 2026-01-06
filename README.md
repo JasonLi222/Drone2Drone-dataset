@@ -58,6 +58,13 @@ The air-to-air scenario introduces unique challenges:
   <em>Figure 2: Sample images from our air-to-air UAV Dataset.</em>
 </p>
 
+### Dataset distribution
+<p align="center">
+  <img src="./figures/scenario.png" width="400">
+  <br>
+  <em>Figure 3: UAV positional distribution and scale distribution in Drone2Drone.The blue points in (b) represents that the target UAV occupies less than 2\% of the total image area. The orange points indicates the UAV target comprises 2\%-4\% proportion within the image dimensions. The remaining red points are the targets larger than 4\%.</em>
+</p>
+
 ---
 
 ## 📊 Experimental Results
