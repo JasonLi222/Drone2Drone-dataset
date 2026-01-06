@@ -11,9 +11,11 @@
 ---
 
 ## 🖼️ Overview
-![Teaser Image](./figures/Trackerandtarget.png)  
-*Figure 1: Overview of the proposed air-to-air UAV tracking framework and dataset scenarios.*
-
+<p align="center">
+  <img src="./figures/Trackerandtarget.png" width="600">
+  <br>
+  <em>Figure 1: Overview of the air-to-air tracking scenarios.</em>
+</p>
 ---
 
 ## 📌 Abstract
