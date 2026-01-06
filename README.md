@@ -69,11 +69,18 @@ The air-to-air scenario introduces unique challenges:
 
 ## 📊 Experimental Results
 ### Quantitative Comparison
-| Tracker | Success Rate | Precision | FPS |
-| :--- | :---: | :---: | :---: |
-| Tracker A | 0.654 | 0.721 | 45 |
-| Tracker B | 0.712 | 0.789 | 30 |
-| **Ours (Best)** | **0.845** | **0.892** | **60** |
+| Tracker | Prec. (%) | Succ. (%) |
+| :--- | :---: | :---: |
+| BACF [14] | 32.2 | 21.2 |
+| fDeepSTRCF [9] | 52.1 | 38.1 |
+| ECO [15] | 51.3 | 36.6 |
+| MCCT [12] | 43.4 | 29.8 |
+| ReDetect [13] | 34.5 | 25.4 |
+| Staple [10] | 34.7 | 25.1 |
+| fDSST [11] | 32.7 | 24.3 |
+| OSTrack [2] | 62.3 | 44.2 |
+| **OSTrack (D2D)** | **65.1** | **46.2** |
+| OSTrack (D2D_FW) | 63.8 | 45.2 |
 
 ### Visualization
 ![Results Chart](./assets/results_plots.png)
